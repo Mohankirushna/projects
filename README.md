@@ -1,7 +1,16 @@
 # 👋 Welcome to My Project Showcase!
 
-Hi, I'm **Mohan Kirushna R** — a developer passionate about Python, AI, and building practical software solutions.  
-This is a categorized collection of my projects.
+Hi, I'm Mohan Kirushna R — a developer passionate about Python, AI, and building practical software solutions that make a difference.
+Welcome to my curated collection of projects, thoughtfully organized into categories to help you explore my work with ease. Whether you’re looking for beginner-friendly code, intermediate challenges, or advanced innovations, you’ll find something here that showcases my skills and creativity.
+
+Feel free to dive in, explore, and connect!
+Contact Me:
+📧 Email: mohankirushnaofficial@gmail.com
+💻 GitHub: github.com/Mohankirushna
+💼 LinkedIn: linkedin.com/in/mohan-kirushna-r-90140228b
+📊 Kaggle: kaggle.com/mohankirushnar007
+
+
 
 ---
 
