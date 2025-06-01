@@ -6,8 +6,21 @@ Welcome to my curated collection of projects, thoughtfully organized into catego
 Feel free to dive in, explore, and connect!
 Contact Me:
 📧 Email: mohankirushnaofficial@gmail.com
+
+
+
+
 💻 GitHub: github.com/Mohankirushna
+
+
+
+
 💼 LinkedIn: linkedin.com/in/mohan-kirushna-r-90140228b
+
+
+
+
+
 📊 Kaggle: kaggle.com/mohankirushnar007
 
 
