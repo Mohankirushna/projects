@@ -37,9 +37,6 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[snake-game](https://github.com/Mohankirushna/snake-game)**  
   A classic Snake game using `pygame` with scoring and collision detection.
 
-- **[check](https://github.com/Mohankirushna/check)**  
-  A collection of test scripts and small Python practice programs.
-
 - **[QR_gen_scan](https://github.com/Mohankirushna/QR_gen_scan)**  
   Generate and scan QR codes using Python and OpenCV.
 
