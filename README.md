@@ -61,9 +61,6 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[connect-four-game](https://github.com/Mohankirushna/connect-four-game)**  
   Two-player Connect Four game developed using `pygame`.
 
-- **[portfolio_webpage](https://github.com/Mohankirushna/portfolio_webpage)**  
-  Responsive personal portfolio made with HTML and CSS.
-
 ---
 
 ## 🟡 Medium Level (Intermediate)
