@@ -1,7 +1,31 @@
-# 👋 Welcome to My Project Showcase!
+# 👋 Hi, I'm Mohan Kirushna R
 
-Hi, I'm **Mohan Kirushna R** — a developer passionate about **Python**, **AI**, and building real-world software solutions.
+### 💻 Developer | 🤖 AI Enthusiast | 🛠️ Problem Solver
 
+I'm a passionate and self-driven developer with a strong interest in **Python**, **Artificial Intelligence**, and building **practical, real-world software solutions** that solve meaningful problems. Whether it's developing intelligent systems, exploring the depths of machine learning, or crafting efficient and user-friendly applications, I love turning ideas into reality through code.
+
+I thrive in dynamic environments where learning never stops, and I'm constantly working on improving my skills by building projects—from fun games to advanced AI models and web tools.
+
+---
+
+### 🚀 What I Do
+
+- 🔬 Build ML/DL models for predictions, classification, and analytics.
+- 🧠 Work on real-time AI applications like surveillance, delay prediction, and deepfake detection.
+- 💡 Create beginner to advanced Python projects for learning and contribution.
+- 🌐 Develop full-stack web solutions and utilities.
+- 📈 Participate in Kaggle competitions to enhance my data science skills.
+
+---
+
+### 🧰 Tech Stack & Interests
+
+- **Languages:** Python, HTML/CSS, JavaScript, TypeScript
+- **Libraries/Frameworks:** TensorFlow, OpenCV, scikit-learn, Kivy, Pygame
+- **Tools:** Jupyter, Git, Streamlit, Tkinter
+- **Domains:** AI, Machine Learning, Computer Vision, NLP, Web Dev
+
+---
 Below is a categorized list of my projects, organized by skill level and complexity to help you navigate through my work with ease.
 
 ---
