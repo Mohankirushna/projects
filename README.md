@@ -1,190 +1,114 @@
 # 👋 Welcome to My Project Showcase!
 
-Hi, I'm Mohan Kirushna R — a developer passionate about Python, AI, and building practical software solutions that make a difference.
-Welcome to my curated collection of projects, thoughtfully organized into categories to help you explore my work with ease. Whether you’re looking for beginner-friendly code, intermediate challenges, or advanced innovations, you’ll find something here that showcases my skills and creativity.
+Hi, I'm **Mohan Kirushna R** — a developer passionate about **Python**, **AI**, and building real-world software solutions.
 
-Feel free to dive in, explore, and connect!
-Contact Me:
-
-
-
-
-📧 Email: mohankirushnaofficial@gmail.com
-
-
-
-
-💻 GitHub: github.com/Mohankirushna
-
-
-
-
-💼 LinkedIn: linkedin.com/in/mohan-kirushna-r-90140228b
-
-
-
-
-
-📊 Kaggle: kaggle.com/mohankirushnar007
-
-
+Below is a categorized list of my projects, organized by skill level and complexity to help you navigate through my work with ease.
 
 ---
 
-## 🟢 Easy Projects
+## ✅ Easy Level (Beginner-Friendly)
 
-### [Snake Game](https://github.com/Mohankirushna/snake-game)
+> Projects with simple logic, GUI basics, or beginner-level Python skills.
 
-A classic Snake game built using `pygame`.  
-Includes score tracking, controls, and collision detection.
+- **[snake-game](https://github.com/Mohankirushna/snake-game)**  
+  A classic Snake game using `pygame` with scoring and collision detection.
 
-### [Password Generator](https://github.com/Mohankirushna/password-generator)
+- **[check](https://github.com/Mohankirushna/check)**  
+  A collection of test scripts and small Python practice programs.
 
-Generates secure passwords with random characters, symbols, and custom lengths.
+- **[QR_gen_scan](https://github.com/Mohankirushna/QR_gen_scan)**  
+  Generate and scan QR codes using Python and OpenCV.
 
-### [Calculator](https://github.com/Mohankirushna/calculator)
+- **[Future-Date-Calculator_kivy](https://github.com/Mohankirushna/Future-Date-Calculator_kivy)**  
+  GUI-based future date calculator built using `kivy`.
 
-A basic GUI calculator using `tkinter` for arithmetic operations.
+- **[student-manegement](https://github.com/Mohankirushna/student-manegement)**  
+  Command-line interface for managing student records.
 
-### [Digital Clock](https://github.com/Mohankirushna/digital-clock)
+- **[rock-paper-scissor-game](https://github.com/Mohankirushna/rock-paper-scissor-game)**  
+  Terminal-based rock-paper-scissors game with simple logic.
 
-Real-time clock with a GUI using `tkinter`.
+- **[password-generator](https://github.com/Mohankirushna/password-generator)**  
+  Create strong passwords with random characters and symbols.
 
-### [QR Code Generator & Scanner](https://github.com/Mohankirushna/QR_gen_scan)
+- **[digital-clock](https://github.com/Mohankirushna/digital-clock)**  
+  A real-time digital clock using `tkinter`.
 
-Python tool for generating and scanning QR codes using OpenCV.
+- **[connect-four-game](https://github.com/Mohankirushna/connect-four-game)**  
+  Two-player Connect Four game developed using `pygame`.
 
-### [Student Management System](https://github.com/Mohankirushna/student-manegement)
-
-A CLI tool for adding, deleting, and managing student records.
-
-### [Git Intro](https://github.com/Mohankirushna/git_intro)
-
-Basic repo for Git practice and learning workflow.
-
-### [Check](https://github.com/Mohankirushna/check)
-
-Testing and miscellaneous Python practice code.
-
-### [Sample](https://github.com/Mohankirushna/sample)
-
-A placeholder repository for initial testing.
+- **[portfolio_webpage](https://github.com/Mohankirushna/portfolio_webpage)**  
+  Responsive personal portfolio made with HTML and CSS.
 
 ---
 
-## 🟡 Medium Projects
+## 🟡 Medium Level (Intermediate)
 
-### [Rock Paper Scissors](https://github.com/Mohankirushna/rock-paper-scissor-game)
+> Projects involving intermediate Python, ML basics, or UI/web development.
 
-Simple terminal game with score tracking.
+- **[ai_study_planner](https://github.com/Mohankirushna/ai_study_planner)**  
+  Web-based planner to track study schedules and subjects.
 
-### [Connect Four Game](https://github.com/Mohankirushna/connect-four-game)
+- **[gym](https://github.com/Mohankirushna/gym)**  
+  Python project (likely in early development or utility scripts related to fitness/tracking).
 
-A two-player game built using `pygame`.
+- **[Epistle_blogging_webpage](https://github.com/Mohankirushna/Epistle_blogging_webpage)**  
+  A blogging platform forked from a TypeScript/React-based project.
 
-### [Future Date Calculator](https://github.com/Mohankirushna/Future-Date-Calculator)
+- **[lane_detection](https://github.com/Mohankirushna/lane_detection)**  
+  Detect lanes in road images/videos using OpenCV techniques.
 
-CLI-based tool to calculate future dates.
+- **[Kaggle_titanic_predict](https://github.com/Mohankirushna/Kaggle_titanic_predict)** *(Private)*  
+  Beginner Kaggle ML project predicting survival on the Titanic.
 
-### [Future Date Calculator - Kivy](https://github.com/Mohankirushna/Future-Date-Calculator_kivy)
+- **[Kaggle_house_predict](https://github.com/Mohankirushna/Kaggle_house_predict)**  
+  Predict house prices using regression techniques.
 
-GUI version of the date calculator using `kivy`.
+- **[Kaggle_spaceshiptitanic](https://github.com/Mohankirushna/Kaggle_spaceshiptitanic)**  
+  Data science challenge with classification on a fictional spaceship dataset.
 
-### [Portfolio Webpage](https://github.com/Mohankirushna/portfolio_webpage)
+- **[Kaggle_loan_predict](https://github.com/Mohankirushna/Kaggle_loan_predict)**  
+  Predict loan approvals using structured input data.
 
-A responsive personal portfolio site using HTML/CSS.
-
-### [AI Study Planner](https://github.com/Mohankirushna/ai_study_planner)
-
-Simple planner interface to track study schedules.
-
-### [Movie Application](https://github.com/Mohankirushna/movie-application)
-
-Forked React app to explore movie data and APIs.
-
-### [Epistle Blogging Page](https://github.com/Mohankirushna/Epistle_blogging_webpage)
-
-Forked TypeScript-based blogging platform.
-
-### [Web Basic](https://github.com/Mohankirushna/web_basic)
-
-Practice repository for HTML and CSS basics.
+- **[sentimental-analysics](https://github.com/Mohankirushna/sentimental-analysics)**  
+  Analyze sentiment in text using NLP libraries.
 
 ---
 
-## 🔴 Advanced Projects
+## 🔴 Advanced Level (Complex Systems & Deep Learning)
 
-### [Deepfake Detection using MTCNN](https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn)
+> Complex, multi-module projects involving ML/DL, real-time data, or custom models.
 
-Detect manipulated videos using MTCNN and CNN models.
+- **[Deepfake-detection-in-videos-using-mtcnn](https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn)**  
+  Detect manipulated videos using face recognition (MTCNN) and deep learning.
 
-### [Traffic Delay Prediction - TensorFlow](https://github.com/Mohankirushna/traffic_delay_tensorflow)
+- **[traffic_delay_tensorflow](https://github.com/Mohankirushna/traffic_delay_tensorflow)**  
+  Predict traffic delays using real-time features and TensorFlow.
 
-Machine learning model to forecast traffic delays using real-time data.
+- **[traffic_bus_delay_model](https://github.com/Mohankirushna/traffic_bus_delay_model)**  
+  Bus delay prediction using machine learning for public transport optimization.
 
-### [Traffic Bus Delay Model](https://github.com/Mohankirushna/traffic_bus_delay_model)
+- **[findingdress_model](https://github.com/Mohankirushna/findingdress_model)**  
+  AI model to suggest preferred dresses based on user input or trends.
 
-AI model built to predict delays in public transportation.
+- **[stockmarket_prediction](https://github.com/Mohankirushna/stockmarket_prediction)**  
+  Analyze and predict stock trends using Python-based ML models.
 
-### [Stock Market Prediction](https://github.com/Mohankirushna/stockmarket_prediction)
+- **[rag_nptel](https://github.com/Mohankirushna/rag_nptel)**  
+  Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
 
-Analyze and forecast stock prices using Python.
-
-### [Sentiment Analysis](https://github.com/Mohankirushna/sentimental-analysics)
-
-Use NLP to analyze user sentiment in text.
-
-### [Finding Dress Model](https://github.com/Mohankirushna/findingdress_model)
-
-Predict customer preferences for clothing.
-
-### [Lane Detection](https://github.com/Mohankirushna/lane_detection)
-
-Detect road lanes using OpenCV and computer vision.
-
-### [Kaggle Loan Prediction](https://github.com/Mohankirushna/Kaggle_loan_predict)
-
-ML model for predicting loan approvals.
-
-### [Kaggle House Price Predictor](https://github.com/Mohankirushna/Kaggle_house_predict)
-
-Predict home prices using regression models.
-
-### [Kaggle Spaceship Titanic](https://github.com/Mohankirushna/Kaggle_spaceshiptitanic)
-
-Data science challenge on a fictional spaceship dataset.
-
----
-
-## 🚧 Forked / Experimental
-
-### [Github Profile README Generator](https://github.com/Mohankirushna/github-profile-readme-generator)
-
-Generate a beautiful GitHub profile with real-time stats.
-
-### [Music Recommender System](https://github.com/Mohankirushna/Music_Recommender_System)
-
-Recommender system based on user preferences (forked).
-
-### [Glitchcon](https://github.com/Mohankirushna/glitchcon)
-
-Static website project with unknown context.
-
----
-
-## 🧠 Private / In Progress
-
-- `Mohan_camerastream_handling_Security-and-Surveillance-System` *(forked, private)*
-- `Kaggle_titanic_predict` *(private)*
-- `Kaggle_gdg_predict` *(private)*
+- **Mohan_camerastream_handling_Security-and-Surveillance-System** *(Private)*  
+  Real-time video stream handling for a smart surveillance and alert system.
 
 ---
 
 ## 📬 Contact Me
 
-- GitHub: [@Mohankirushna](https://github.com/Mohankirushna)
-- Email: *your.email@example.com*
+- 📧 **Email**: [mohankirushnaofficial@gmail.com](mailto:mohankirushnaofficial@gmail.com)  
+- 💻 **GitHub**: [github.com/Mohankirushna](https://github.com/Mohankirushna)  
+- 💼 **LinkedIn**: [linkedin.com/in/mohan-kirushna-r-90140228b](https://linkedin.com/in/mohan-kirushna-r-90140228b)  
+- 📊 **Kaggle**: [kaggle.com/mohankirushnar007](https://kaggle.com/mohankirushnar007)
 
 ---
 
-⭐ *Thanks for visiting my project space! Feel free to explore, clone, and ⭐ any repo that interests you.*
+⭐ Thanks for visiting! Explore, clone, and ⭐ your favorite projects!
