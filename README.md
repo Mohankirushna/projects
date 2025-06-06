@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohan Kirushna R
+![image](https://github.com/user-attachments/assets/5c0529f0-f36c-4019-9330-4eb0c89db938)# 👋 Hi, I'm Mohan Kirushna R
 
 ### 💻 Developer | 🤖 AI Enthusiast | 🛠️ Problem Solver
 
@@ -114,6 +114,10 @@ Below is a categorized list of my projects, organized by skill level and complex
 
 - **[rag_nptel](https://github.com/Mohankirushna/rag_nptel)**  
   Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
+
+- **[Shop-CCTV-Face-and-Dress-Detection](https://github.com/Mohankirushna/Shop-CCTV-Face-and-Dress-Detection)**
+  Real-time retail shop monitoring system with face recognition, dress classification, and color detection using deep learning.
+
 
 - **Mohan_camerastream_handling_Security-and-Surveillance-System** *(Private)*  
   Real-time video stream handling for a smart surveillance and alert system.
