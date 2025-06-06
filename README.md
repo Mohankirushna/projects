@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/5c0529f0-f36c-4019-9330-4eb0c89db938)# 👋 Hi, I'm Mohan Kirushna R
+# 👋 Hi, I'm Mohan Kirushna R
 
 ### 💻 Developer | 🤖 AI Enthusiast | 🛠️ Problem Solver
 
