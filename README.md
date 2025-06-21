@@ -96,6 +96,11 @@ Below is a categorized list of my projects, organized by skill level and complex
 ## 🔴 Advanced Level (Complex Systems & Deep Learning)
 
 > Complex, multi-module projects involving ML/DL, real-time data, or custom models.
+- **[full_working_workflow_6](https://github.com/Mohankirushna/full_working_workflow_6)**  
+  Smart email classification using Gemini 1.5 Flash API and real-time Telegram bot notifications via n8n automation.
+
+- **[My_workflow_6](https://github.com/Mohankirushna/My_workflow_6)**  
+  Lightweight email sorting system using only rule-based Gmail label assignment via n8n.
 
 - **[Deepfake-detection-in-videos-using-mtcnn](https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn)**  
   Detect manipulated videos using face recognition (MTCNN) and deep learning.
