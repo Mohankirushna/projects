@@ -99,6 +99,9 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[automated_mail_classification](https://github.com/Mohankirushna/automated_mail_classification)**  
   Automate Gmail email classification using n8n. Supports both simple rule-based sorting and advanced AI-powered labeling via Gemini 1.5 Flash, with optional real-time Telegram bot notifications.
 
+- **[ml-nlp-engineer](https://github.com/Mohankirushna/ML-NLP-Engineer)**  
+  End-to-end text classification using DistilBERT, built with PyTorch and Hugging Face. Features training, evaluation, and visualization on IMDB or custom datasets with modular code and Jupyter-based experimentation.
+
 - **[Deepfake-detection-in-videos-using-mtcnn](https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn)**  
   Detect manipulated videos using face recognition (MTCNN) and deep learning.
 
