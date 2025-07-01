@@ -96,6 +96,10 @@ Below is a categorized list of my projects, organized by skill level and complex
 ## 🔴 Advanced Level (Complex Systems & Deep Learning)
 
 > Complex, multi-module projects involving ML/DL, real-time data, or custom models.
+
+- **[supermarket_chatbot_with_preferences_inventory](https://github.com/Mohankirushna/supermarket_chatbot_with_preferences_inventory)**  
+  An interactive supermarket chatbot built with Streamlit and LangChain. Handles smart inventory lookups, personalized customer likes/dislikes, and conversational memory using a local Ollama LLM. Perfect starter project for AI-powered retail assistants.
+
 - **[automated_mail_classification](https://github.com/Mohankirushna/automated_mail_classification)**  
   Automate Gmail email classification using n8n. Supports both simple rule-based sorting and advanced AI-powered labeling via Gemini 1.5 Flash, with optional real-time Telegram bot notifications.
 
