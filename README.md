@@ -100,8 +100,8 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[supermarket_chatbot_with_preferences_inventory](https://github.com/Mohankirushna/Supermarket-Chatbot-with-Smart-Preferences-Inventory)**  
   An interactive supermarket chatbot built with Streamlit and LangChain. Handles smart inventory lookups, personalized customer likes/dislikes, and conversational memory using a local Ollama LLM. Perfect starter project for AI-powered retail assistants.
 
-# **[Depression-Detection-Using-Texts-And-Processed-EEG-Data](https://github.com/Mohankirushna/Depression-Detection-Using-Texts-And-Processed-EEG-Data)**
-
+- **[Depression-Detection-Using-Texts-And-Processed-EEG-Data](https://github.com/Mohankirushna/Depression-Detection-Using-Texts-And-Processed-EEG-Data)**
+  "Multimodal deep learning framework for depression detection, combining text analysis from social media (Reddit) and EEG signal processing. The system leverages NLP and neural signal analysis to improve accuracy and early diagnosis of depression."
 
 - **[automated_mail_classification](https://github.com/Mohankirushna/automated_mail_classification)**  
   Automate Gmail email classification using n8n. Supports both simple rule-based sorting and advanced AI-powered labeling via Gemini 1.5 Flash, with optional real-time Telegram bot notifications.
