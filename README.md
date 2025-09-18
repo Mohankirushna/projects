@@ -21,9 +21,9 @@ I thrive in dynamic environments where learning never stops, and I'm constantly 
 ### 🧰 Tech Stack & Interests
 
 - **Languages:** Python, HTML/CSS, JavaScript, TypeScript
-- **Libraries/Frameworks:** TensorFlow, OpenCV, scikit-learn, Kivy, Pygame
+- **Libraries/Frameworks:** TensorFlow, OpenCV, scikit-learn, Pygame
 - **Tools:** Jupyter, Git, Streamlit, Tkinter
-- **Domains:** AI, Machine Learning, Computer Vision, NLP, Web Dev
+- **Domains:** AI, Machine Learning, Computer Vision, Natural Language Processing
 
 ---
 Below is a categorized list of my projects, organized by skill level and complexity to help you navigate through my work with ease.
