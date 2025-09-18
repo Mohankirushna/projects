@@ -127,9 +127,9 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[rag_nptel](https://github.com/Mohankirushna/rag_nptel)**  
   Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
 
-- **[rag](https://github.com/Mohankirushna/rag)**
-  Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
-
+- **[Local RAG System with Mistral and Ollama](https://github.com/Mohankirushna/rag)**
+  A local Retrieval-Augmented Generation (RAG) system using Mistral via Ollama and FAISS for context-aware document-based Q&A with a React frontend.
+  
 - **[Shop-CCTV-Face-and-Dress-Detection](https://github.com/Mohankirushna/Shop-CCTV-Face-and-Dress-Detection)**
   Real-time retail shop monitoring system with face recognition, dress classification, and color detection using deep learning.
 
