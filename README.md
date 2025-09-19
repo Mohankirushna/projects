@@ -121,9 +121,6 @@ Below is a categorized list of my projects, organized by skill level and complex
 - **[findingdress_model](https://github.com/Mohankirushna/findingdress_model)**  
   AI model to suggest preferred dresses based on user input or trends.
 
-- **[stockmarket_prediction](https://github.com/Mohankirushna/stockmarket_prediction)**  
-  Analyze and predict stock trends using Python-based ML models.
-
 - **[rag_nptel](https://github.com/Mohankirushna/rag_nptel)**  
   Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
 
