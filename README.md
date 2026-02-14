@@ -1,148 +1,153 @@
-# 👋 Hi, I'm Mohan Kirushna R
+# 👋 Mohan Kirushna R
 
-### 💻 Developer | 🤖 AI Enthusiast | 🛠️ Problem Solver
+**AI Engineer | Machine Learning Developer | Systems Builder**
 
-I'm a passionate and self-driven developer with a strong interest in **Python**, **Artificial Intelligence**, and building **practical, real-world software solutions** that solve meaningful problems. Whether it's developing intelligent systems, exploring the depths of machine learning, or crafting efficient and user-friendly applications, I love turning ideas into reality through code.
-
-I thrive in dynamic environments where learning never stops, and I'm constantly working on improving my skills by building projects—from fun games to advanced AI models and web tools.
+I design and build practical AI systems focused on real-world deployment, intelligent automation, computer vision, NLP, and applied machine learning. My work combines experimentation, research, and scalable system design.
 
 ---
 
-### 🚀 What I Do
+# 🚀 Public Projects Portfolio
 
-- 🔬 Build ML/DL models for predictions, classification, and analytics.
-- 🧠 Work on real-time AI applications like surveillance, delay prediction, and deepfake detection.
-- 💡 Create beginner to advanced Python projects for learning and contribution.
-- 🌐 Develop full-stack web solutions and utilities.
-- 📈 Participate in Kaggle competitions to enhance my data science skills.
+Below is a structured overview of my public repositories, organized by domain.
 
 ---
 
-### 🧰 Tech Stack & Interests
+## 🧠 AI, Machine Learning & NLP
 
-- **Languages:** Python, HTML/CSS, JavaScript, TypeScript
-- **Libraries/Frameworks:** TensorFlow, OpenCV, scikit-learn, Pygame
-- **Tools:** Jupyter, Git, Streamlit, Tkinter
-- **Domains:** AI, Machine Learning, Computer Vision, Natural Language Processing
+### 🔹 Depression-Detection-Using-Text-And-Processed-EEG-Data
+Multimodal deep learning framework combining NLP (social media text) and EEG signal processing for depression detection.  
+https://github.com/Mohankirushna/Depression-Detection-Using-Text-And-Processed-EEG-Data
 
----
-Below is a categorized list of my projects, organized by skill level and complexity to help you navigate through my work with ease.
+### 🔹 ML-NLP-Engineer
+End-to-end text classification using DistilBERT (PyTorch + Hugging Face).  
+https://github.com/Mohankirushna/ML-NLP-Engineer
 
----
+### 🔹 sentimental-analysics
+NLP-based sentiment analysis pipeline.  
+https://github.com/Mohankirushna/sentimental-analysics
 
-## ✅ Easy Level (Beginner-Friendly)
+### 🔹 research-pilot-ai
+AI experimentation and research workflows.  
+https://github.com/Mohankirushna/research-pilot-ai
 
-> Projects with simple logic, GUI basics, or beginner-level Python skills.
+### 🔹 RAG_Deploy
+Deployment-ready Retrieval-Augmented Generation (RAG) system.  
+https://github.com/Mohankirushna/RAG_Deploy
 
-- **[snake-game](https://github.com/Mohankirushna/snake-game)**  
-  A classic Snake game using `pygame` with scoring and collision detection.
-
-- **[QR_gen_scan](https://github.com/Mohankirushna/QR_gen_scan)**  
-  Generate and scan QR codes using Python and OpenCV.
-
-- **[Future-Date-Calculator_kivy](https://github.com/Mohankirushna/Future-Date-Calculator_kivy)**  
-  GUI-based future date calculator built using `kivy`.
-
-- **[student-manegement](https://github.com/Mohankirushna/student-manegement)**  
-  Command-line interface for managing student records.
-
-- **[rock-paper-scissor-game](https://github.com/Mohankirushna/rock-paper-scissor-game)**  
-  Terminal-based rock-paper-scissors game with simple logic.
-
-- **[password-generator](https://github.com/Mohankirushna/password-generator)**  
-  Create strong passwords with random characters and symbols.
-
-- **[digital-clock](https://github.com/Mohankirushna/digital-clock)**  
-  A real-time digital clock using `tkinter`.
-
-- **[connect-four-game](https://github.com/Mohankirushna/connect-four-game)**  
-  Two-player Connect Four game developed using `pygame`.
+### 🔹 Elemental-llm-arena-
+LLM evaluation and comparison framework.  
+https://github.com/Mohankirushna/Elemental-llm-arena-
 
 ---
 
-## 🟡 Medium Level (Intermediate)
+## 🎥 Computer Vision & Surveillance
 
-> Projects involving intermediate Python, ML basics, or UI/web development.
+### 🔹 Shop-CCTV-Face-and-Dress-Detection
+Retail surveillance system with face recognition and dress classification.  
+https://github.com/Mohankirushna/Shop-CCTV-Face-and-Dress-Detection
 
-- **[ai_study_planner](https://github.com/Mohankirushna/ai_study_planner)**  
-  Web-based planner to track study schedules and subjects.
+### 🔹 Deepfake-detection-in-videos-using-mtcnn
+Deepfake detection pipeline using MTCNN and deep learning.  
+https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn
 
-- **[gym](https://github.com/Mohankirushna/gym)**  
-  Python project (likely in early development or utility scripts related to fitness/tracking).
+### 🔹 lane_detection
+Lane detection in road images/videos using OpenCV.  
+https://github.com/Mohankirushna/lane_detection
 
-- **[Epistle_blogging_webpage](https://github.com/Mohankirushna/Epistle_blogging_webpage)**  
-  A blogging platform forked from a TypeScript/React-based project.
-
-- **[lane_detection](https://github.com/Mohankirushna/lane_detection)**  
-  Detect lanes in road images/videos using OpenCV techniques.
-
-- **[Kaggle_titanic_predict](https://github.com/Mohankirushna/Kaggle_titanic_predict)** *(Private)*  
-  Beginner Kaggle ML project predicting survival on the Titanic.
-
-- **[Kaggle_house_predict](https://github.com/Mohankirushna/Kaggle_house_predict)**  
-  Predict house prices using regression techniques.
-
-- **[Kaggle_spaceshiptitanic](https://github.com/Mohankirushna/Kaggle_spaceshiptitanic)**  
-  Data science challenge with classification on a fictional spaceship dataset.
-
-- **[Kaggle_loan_predict](https://github.com/Mohankirushna/Kaggle_loan_predict)**  
-  Predict loan approvals using structured input data.
-
-- **[sentimental-analysics](https://github.com/Mohankirushna/sentimental-analysics)**  
-  Analyze sentiment in text using NLP libraries.
+### 🔹 findingdress_model
+Machine learning model for dress recommendation.  
+https://github.com/Mohankirushna/findingdress_model
 
 ---
 
-## 🔴 Advanced Level (Complex Systems & Deep Learning)
+## 🚦 Traffic, Network & Intelligence Systems
 
-> Complex, multi-module projects involving ML/DL, real-time data, or custom models.
+### 🔹 network-traffic-analyzer (Forked)
+Network traffic monitoring and analysis system.  
+https://github.com/Mohankirushna/network-traffic-analyzer
 
-- **[supermarket_chatbot_with_preferences_inventory](https://github.com/Mohankirushna/Supermarket-Chatbot-with-Smart-Preferences-Inventory)**  
-  An interactive supermarket chatbot built with Streamlit and LangChain. Handles smart inventory lookups, personalized customer likes/dislikes, and conversational memory using a local Ollama LLM. Perfect starter project for AI-powered retail assistants.
-
-- **[Depression-Detection-Using-Text-And-Processed-EEG-Data](https://github.com/Mohankirushna/Depression-Detection-Using-Text-And-Processed-EEG-Data)**
-  Multimodal deep learning framework for depression detection, combining text analysis from social media (Reddit) and EEG signal processing. The system leverages NLP and neural signal analysis to improve accuracy and early diagnosis of depression.
-
-- **[automated_mail_classification](https://github.com/Mohankirushna/automated_mail_classification)**  
-  Automate Gmail email classification using n8n. Supports both simple rule-based sorting and advanced AI-powered labeling via Gemini 1.5 Flash, with optional real-time Telegram bot notifications.
-
-- **[ml-nlp-engineer](https://github.com/Mohankirushna/ML-NLP-Engineer)**  
-  End-to-end text classification using DistilBERT, built with PyTorch and Hugging Face. Features training, evaluation, and visualization on IMDB or custom datasets with modular code and Jupyter-based experimentation.
-
-- **[Deepfake-detection-in-videos-using-mtcnn](https://github.com/Mohankirushna/Deepfake-detection-in-videos-using-mtcnn)**  
-  Detect manipulated videos using face recognition (MTCNN) and deep learning.
-
-- **[traffic_delay_tensorflow](https://github.com/Mohankirushna/traffic_delay_tensorflow)**  
-  Predict traffic delays using real-time features and TensorFlow.
-
-- **[traffic_bus_delay_model](https://github.com/Mohankirushna/traffic_bus_delay_model)**  
-  Bus delay prediction using machine learning for public transport optimization.
-
-- **[findingdress_model](https://github.com/Mohankirushna/findingdress_model)**  
-  AI model to suggest preferred dresses based on user input or trends.
-
-- **[rag_nptel](https://github.com/Mohankirushna/rag_nptel)**  
-  Retrieval-Augmented Generation model for summarizing or querying NPTEL content.
-
-- **[Local RAG System with Mistral and Ollama](https://github.com/Mohankirushna/rag)**
-  A local Retrieval-Augmented Generation (RAG) system using Mistral via Ollama and FAISS for context-aware document-based Q&A with a React frontend.
-  
-- **[Shop-CCTV-Face-and-Dress-Detection](https://github.com/Mohankirushna/Shop-CCTV-Face-and-Dress-Detection)**
-  Real-time retail shop monitoring system with face recognition, dress classification, and color detection using deep learning.
-
-
-- **Mohan_camerastream_handling_Security-and-Surveillance-System** *(Private)*  
-  Real-time video stream handling for a smart surveillance and alert system.
+### 🔹 MY-SIH-Route-Rationalization (Forked)
+Smart India Hackathon route optimization project.  
+https://github.com/Mohankirushna/MY-SIH-Route-Rationalization
 
 ---
 
-## 📬 Contact Me
+## 🤖 AI Applications & Automation
 
-- 📧 **Email**: [mohankirushnaofficial@gmail.com](mailto:mohankirushnaofficial@gmail.com)  
-- 💻 **GitHub**: [github.com/Mohankirushna](https://github.com/Mohankirushna)  
-- 💼 **LinkedIn**: [linkedin.com/in/mohan-kirushna-r-90140228b](https://linkedin.com/in/mohan-kirushna-r-90140228b)  
-- 📊 **Kaggle**: [kaggle.com/mohankirushnar007](https://kaggle.com/mohankirushnar007)
+### 🔹 Supermarket-Chatbot-with-Smart-Preferences-Inventory
+AI-powered chatbot with smart inventory lookup and preference memory.  
+https://github.com/Mohankirushna/Supermarket-Chatbot-with-Smart-Preferences-Inventory
+
+### 🔹 automated_mail_classification
+Email classification system with rule-based and AI labeling.  
+https://github.com/Mohankirushna/automated_mail_classification
+
+### 🔹 bionary_blog_n8n
+Workflow automation using n8n.  
+https://github.com/Mohankirushna/bionary_blog_n8n
+
+### 🔹 human_terminal
+Python-based terminal interaction utility.  
+https://github.com/Mohankirushna/human_terminal
 
 ---
 
-⭐ Thanks for visiting! Explore, clone, and ⭐ your favorite projects!
+## 🌐 Web & Full-Stack Projects
+
+### 🔹 Epistle_blogging_webpage (Forked)
+Blogging platform built with TypeScript.  
+https://github.com/Mohankirushna/Epistle_blogging_webpage
+
+### 🔹 ai_study_planner
+Web-based study planning application.  
+https://github.com/Mohankirushna/ai_study_planner
+
+### 🔹 projects
+General project collection repository.  
+https://github.com/Mohankirushna/projects
+
+---
+
+## 🛠 Utilities & Experimental Systems
+
+### 🔹 virtual_keyboard_mouse
+Gesture-based virtual keyboard and mouse controller.  
+https://github.com/Mohankirushna/virtual_keyboard_mouse
+
+### 🔹 Pushups_squats_ropejumping_count
+Exercise repetition counter using computer vision.  
+https://github.com/Mohankirushna/Pushups_squats_ropejumping_count
+
+### 🔹 commodity_MITSUI
+Commodity-related system prototype.  
+https://github.com/Mohankirushna/commodity_MITSUI
+
+### 🔹 synthetic_data_generator_annotation
+Synthetic data generation and annotation pipeline.  
+https://github.com/Mohankirushna/synthetic_data_generator_annotation
+
+### 🔹 ShotStory
+AI-based story generation system.  
+https://github.com/Mohankirushna/ShotStory
+
+---
+
+# 🧰 Technical Stack
+
+**Languages:** Python, JavaScript, TypeScript, HTML  
+**AI/ML:** TensorFlow, PyTorch, scikit-learn, HuggingFace, OpenCV  
+**LLM Systems:** RAG, LangChain, Ollama  
+**Tools:** Git, Jupyter, Streamlit, n8n  
+
+---
+
+# 📫 Contact
+
+📧 mohankirushnaofficial@gmail.com  
+💻 https://github.com/Mohankirushna  
+💼 https://linkedin.com/in/mohan-kirushna-r-90140228b  
+📊 https://kaggle.com/mohankirushnar007  
+
+---
+
+⭐ Feel free to explore, fork, or contribute to any of the above projects.
