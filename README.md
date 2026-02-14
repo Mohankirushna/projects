@@ -2,7 +2,18 @@
 
 **AI Engineer | Machine Learning Developer | Systems Builder**
 
-I design and build practical AI systems focused on real-world deployment, intelligent automation, computer vision, NLP, and applied machine learning. My work combines experimentation, research, and scalable system design.
+I design and build production-oriented AI systems that move beyond experimentation into real-world deployment. My work focuses on intelligent automation, computer vision, natural language processing, and applied machine learning — with an emphasis on building scalable, modular, and maintainable architectures.
+
+I have hands-on experience developing end-to-end ML pipelines, training and evaluating deep learning models, building Retrieval-Augmented Generation (RAG) systems, and integrating LLMs into practical applications. I enjoy working at the intersection of research and engineering — turning ideas into deployable systems that solve operational problems.
+
+My approach combines:
+- Structured problem solving  
+- Clean, modular system design  
+- Data-driven experimentation  
+- Continuous iteration and optimization  
+
+I am particularly interested in AI systems engineering, real-time intelligent applications, and scalable ML infrastructure.
+
 
 ---
 
