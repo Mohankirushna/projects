@@ -108,12 +108,31 @@ AI-based story generation system.
 
 ---
 
-# 🧰 Technical Stack
+# 🧰 Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, HTML  
-**AI/ML:** TensorFlow, PyTorch, scikit-learn, HuggingFace, OpenCV  
-**LLM Systems:** RAG, LangChain, Ollama  
-**Tools:** Git, Jupyter, Streamlit, n8n  
+### 💻 Programming Languages
+🐍 Python  
+🟨 JavaScript  
+🟦 TypeScript  
+🌐 HTML  
+
+### 🤖 AI / Machine Learning
+🧠 TensorFlow  
+🔥 PyTorch  
+📊 scikit-learn  
+🤗 HuggingFace  
+👁 OpenCV  
+
+### 🧩 LLM & Retrieval Systems
+📚 RAG Pipelines  
+🔗 LangChain  
+🦙 Ollama  
+
+### 🛠 Development & Tools
+🔧 Git  
+📓 Jupyter  
+🚀 Streamlit  
+⚙ n8n  
 
 ---
 
