@@ -121,9 +121,6 @@ Blogging platform built with TypeScript.
 ### 🔹 [ai_study_planner](https://github.com/Mohankirushna/ai_study_planner)
 Web-based study planning application.
 
-### 🔹 [projects](https://github.com/Mohankirushna/projects)
-General project collection repository.
-
 ---
 
 ## 🛠 Utilities & Experimental Systems
@@ -133,12 +130,6 @@ Gesture-based virtual keyboard and mouse controller.
 
 ### 🔹 [Pushups_squats_ropejumping_count](https://github.com/Mohankirushna/Pushups_squats_ropejumping_count)
 Exercise repetition counter using computer vision.
-
-### 🔹 [commodity_MITSUI](https://github.com/Mohankirushna/commodity_MITSUI)
-Commodity-related system prototype.
-
-### 🔹 [synthetic_data_generator_annotation](https://github.com/Mohankirushna/synthetic_data_generator_annotation)
-Synthetic data generation and annotation pipeline.
 
 ### 🔹 [ShotStory](https://github.com/Mohankirushna/ShotStory)
 AI-based story generation system.
