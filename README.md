@@ -25,8 +25,13 @@ Below is a structured overview of my public repositories, organized by domain.
 
 ## 🧠 AI, Machine Learning & NLP
 
-### 🔹 [Gemination – Semantic Search System](https://github.com/Mohankirushna/web-gemination)
-Production-oriented semantic search system built on the 20 Newsgroups dataset using embeddings, fuzzy GMM clustering, and a semantic caching layer. Includes a FastAPI service for scalable query retrieval.
+### 🔹 [Semantic Search System](https://github.com/Mohankirushna/sematic_search)
+A scalable semantic retrieval system built on the 20 Newsgroups dataset using sentence embeddings, fuzzy GMM clustering, and a custom semantic caching layer.  
+Provides a FastAPI-based service for efficient similarity search and query reuse.
+
+### 🔹 [Gemination – AI Institutional Knowledge Platform](https://github.com/Mohankirushna/GEMINATION/tree/main/GEMINATION-institution)
+AI-powered institutional knowledge platform designed to organize and retrieve academic and organizational information.  
+Implements structured knowledge retrieval, document indexing, and intelligent query processing to assist institutional workflows.
 
 ### 🔹 [Depression-Detection-Using-Text-And-Processed-EEG-Data](https://github.com/Mohankirushna/Depression-Detection-Using-Text-And-Processed-EEG-Data)
 Multimodal deep learning framework combining NLP (social media text) and EEG signal processing for depression detection.
