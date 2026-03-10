@@ -50,6 +50,9 @@ LLM evaluation and comparison framework.
 
 ## 🎥 Computer Vision & Surveillance
 
+### 🔹 [synthetic_data_generator_annotation](https://github.com/Mohankirushna/synthetic_data_generator_annotation)
+Procedural synthetic dataset generator for pothole detection with Blender-based rendering, multi-weather simulation, and automatic annotation export (YOLO, COCO, VOC).
+
 ### 🔹 [Shop-CCTV-Face-and-Dress-Detection](https://github.com/Mohankirushna/Shop-CCTV-Face-and-Dress-Detection)
 Retail surveillance system with face recognition and dress classification.
 
