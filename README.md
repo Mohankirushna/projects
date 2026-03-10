@@ -66,6 +66,21 @@ Lane detection in road images/videos using OpenCV.
 Machine learning model for dress recommendation.
 
 ---
+## 🔐 Cybersecurity & Financial Intelligence Systems
+
+### 🔹 [SurakshaFlow – Unified Cyber-Financial Intelligence Platform](https://github.com/Mohankirushna/SurakshaFlow)
+Real-time cyber–financial intelligence platform that combines Security Operations Center (SOC) signals with Anti-Money Laundering (AML) monitoring to detect financial scams and money-mule networks.
+
+Key capabilities include:
+- AI-powered alert explanation using Gemini
+- Graph-based fraud network visualization (D3.js)
+- Digital twin simulation for intervention planning
+- STR report generation for compliance
+- SMS scam detection for end users
+
+Built using **React, FastAPI, Firebase, NetworkX, and Gemini AI**.
+
+---
 
 ## 🚦 Traffic, Network & Intelligence Systems
 
