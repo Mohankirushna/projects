@@ -58,9 +58,6 @@ Enterprise-grade image deduplication tool built to handle 1M+ images. Layers exa
 
 ## 🧠 AI, Machine Learning & NLP
 
-### 🔹 [Commodity Price Prediction Platform](https://github.com/Mohankirushna/commodity_MITSUI)
-Full-stack ML/LLM platform for commodity price forecasting and market analysis, built on the Kaggle MITSUI Commodity Prediction Challenge dataset, with multi-horizon prediction models.
-
 ### 🔹 [AI Investment Research Platform](https://github.com/Mohankirushna/stock_predictions_base)
 A research (not trading) tool for public equities that fuses market data, news, and technical/fundamental analysis into an explainable master score — every recommendation ships with a confidence cap and uncertainty note.
 
